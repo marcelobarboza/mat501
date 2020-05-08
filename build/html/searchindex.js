@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{"bin\u00e1ria":0,"defini\u00e7\u00e3o":0,"n\u00e3o":0,"opera\u00e7\u00e3o":0,conjunto:0,content:0,index:0,modul:0,munido:0,page:0,search:0,uma:0,vazio:0},titles:["Welcome to MAT501&#8217;s documentation!"],titleterms:{"":0,document:0,grupo:0,indice:0,mat501:0,tabl:0,welcom:0}})
